@@ -15,7 +15,7 @@ _Keywords : aws, s3, cloudfront_
 Develop a cloud-based application for uploading and filtering images!
 _Keywords : AWS, elasticbeanstalk, eb-cli, nodejs, express, sentry, jimp, morgan, http-status_
 
-[PROJECT 3 : Udagram V2 - microservices at scale! Your Own Instagram on AWS](project3-microservices-udagram)
+[PROJECT 3 : Udagram V2 - microservices at scale! Your Own Instagram on AWS](https://github.com/kendyjm/udacity-cloud-developer-nd9990-project3-microservices-udagram)
 Develop a cloud-based application for uploading and filtering images!
 _Keywords : AWS, Elastic Kubernetes Service (Amazon EKS), reverse-proxy with NGINX, containerization with Docker, CI/CD with Travis, container orchestration/CD with Kubernetes_
 
